@@ -5,10 +5,7 @@
 > Nuevo Usuario en GitHub.
 
 > [!NOTE]  
-> Useful
-
-> [!IMPORTANT]  
-> Be careful
+> Esta es una nota 💬.
 
 <!--
 **Edrx2025/Edrx2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
