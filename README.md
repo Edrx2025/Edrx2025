@@ -1,8 +1,9 @@
 # Welcome to my profile 😄
 ## Hi there , I'm a software engineering student 🔭 
 
-> Aprendiendo Backend (Java).  
-> Nuevo Usuario en GitHub.
+> Aprendiendo Backend (Java)  
+> Nuevo Usuario en GitHub  
+> Aprendiendo Arduino, utilizando dispositivo ESP32⚡️
 
 > [!NOTE]  
 > Esta es una nota 💬.
