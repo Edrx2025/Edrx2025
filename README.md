@@ -1,4 +1,4 @@
-# Welcome to my profile 😄
+# <img src="https://i.giphy.com/WtTnAfZn6aVJfBzlN3.webp" width="70"> ...Welcome to my profile 😄
 ## Hi there , I'm a software engineering student 🔭 
 
 > Aprendiendo Backend (Java)  
