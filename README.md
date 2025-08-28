@@ -1,7 +1,7 @@
 # Welcome to my profile 😄
 ## Hi there , I'm a software engineering student 🔭 
 
-> Aprendiendo Backend (Java).
+> Aprendiendo Backend (Java).  
 > Nuevo Usuario en GitHub.
 
 <!--
