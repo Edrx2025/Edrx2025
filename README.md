@@ -1,5 +1,5 @@
 # Welcome to my profile 😄
-## Hi there , I'm a software engineering student👋
+## Hi there , I'm a software engineering student👋.
 
 <!--
 **Edrx2025/Edrx2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
