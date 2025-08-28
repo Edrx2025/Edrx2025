@@ -1,8 +1,8 @@
 # Welcome to my profile 😄
 ## Hi there , I'm a software engineering student 🔭 
 
-> Aprendiendo Backend (Java)
-> Nuevo Usuario en GitHub
+> Aprendiendo Backend (Java).
+> Nuevo Usuario en GitHub.
 
 <!--
 **Edrx2025/Edrx2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
