@@ -1,12 +1,14 @@
 # Welcome to my profile 😄
-# ![Saludo](https://i.giphy.com/WtTnAfZn6aVJfBzlN3.webp)
-## Hi there , I'm a software engineering student 🔭 
+<p align="center">
+<img src="https://i.giphy.com/WtTnAfZn6aVJfBzlN3.webp" width="300">
+</p>
 
+## Hi there, I'm a software engineering student 🔭
 > Aprendiendo Backend (Java)  
 > Nuevo Usuario en GitHub  
 > Aprendiendo Arduino, utilizando dispositivo ESP32⚡️
 
-## [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/)
+## [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com)
 
 > [!NOTE]  
 > Esta es una nota 💬.
