@@ -6,6 +6,8 @@
 > Nuevo Usuario en GitHub  
 > Aprendiendo Arduino, utilizando dispositivo ESP32⚡️
 
+## [![Youtube](https://static.vecteezy.com/system/resources/previews/023/986/704/large_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png)](https://www.youtube.com/)
+
 > [!NOTE]  
 > Esta es una nota 💬.
 
