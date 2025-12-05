@@ -4,9 +4,10 @@
 </p>
 
 ## Hi there, I'm a software engineering student 🔭
-> Aprendiendo Backend (Java)  
-> Nuevo Usuario en GitHub  
+> Aprendiendo Java
+> Aprendiendo Git-Github
 > Aprendiendo Arduino, utilizando dispositivo ESP32⚡️
+> Experiencia en lenguaje C (Raylib)
 
 ## [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com)
 
