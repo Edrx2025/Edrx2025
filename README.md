@@ -5,9 +5,14 @@
 
 ## Hi there, I'm a software engineering student 🔭
 > Aprendiendo Java
+
 > Aprendiendo Git-Github
+
 > Aprendiendo Arduino, utilizando dispositivo ESP32⚡️
+
 > Experiencia en lenguaje C (Raylib)
+
+> Aprendiendo HTML & CSS
 
 ## [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com)
 
