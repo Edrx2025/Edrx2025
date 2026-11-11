@@ -16,7 +16,7 @@
 
 > Learning JavaScript <img width="3%" alt="javascript-icon" src="https://github.com/user-attachments/assets/7c1dabc7-fcba-4a99-a20c-d2359b8a51d2" />
 
-## [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/eduardo-rodriguez-rivas-68aab3304)
+## [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com) <a href="https://www.linkedin.com/in/eduardo-rodriguez-rivas-68aab3304" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="icon-LinkedIn"></a>
 
 > [!IMPORTANT]  
 <img src="https://github-readme-stats.vercel.app/api?username=Edrx2025&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
